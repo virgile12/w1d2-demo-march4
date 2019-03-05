@@ -5,4 +5,15 @@ problem solving
 
 - Prblem solving app
  - incremental developement
- - edd
+ - edd - error drven dev
+ 
+ Steps :
+ * Rince and Repeat :
+ - state hypothesis
+ - test hypothesis
+ - cjamges
+ 
+ 
+ 
+ - can we improve the solution ?
+ - code refactoring
